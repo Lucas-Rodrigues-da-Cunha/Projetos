@@ -1,0 +1,62 @@
+html {
+    background-color: #E6811C;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #002b6f;
+}
+
+header {
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #a42538;
+    position: relative;
+    padding: 185px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+header img {
+    max-width:300px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+}
+
+.QM {
+    position: absolute;
+    left: 610px;
+    top: 0px;
+}
+
+.DC {
+    position: absolute;
+    left: 610px;
+    top: 180px;
+}
+
+.Contatos {
+    color: #2fff00;
+    font-size: 20px;
+    list-style: none;
+    position: absolute;
+    right: 15px;
+    top: 235px;
+}
+
+.Logos {
+    max-width: 50px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
